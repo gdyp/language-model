@@ -120,7 +120,7 @@ python-dateutil==2.7.5
 pytorch-pretrained-bert==0.6.1
 pytz==2018.9
 pytzdata==2019.1
-PyYAML==3.12
+PyYAML==5.1
 pyzmq==17.1.2
 qtconsole==4.4.3
 raven==6.9.0
